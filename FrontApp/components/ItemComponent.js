@@ -26,10 +26,11 @@ const styles = StyleSheet.create({
     itemsList: {
         flex: 1,
         flexDirection: 'column',
-        justifyContent: 'space-around'
+        padding: 40
     },
     itemtext: {
         fontSize: 24,
+        padding: 10,
         fontWeight: 'bold',
         textAlign: 'center'
     }
